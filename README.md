@@ -14,6 +14,7 @@ The repository contains the following key files:
 - **walking.mp4**: The sample input video file.
 - **output_compressed.mp4**: The processed output video.
 - **.gitignore**: Specifies files and directories to be ignored by Git.
+- **classes.json**: A JSON file containing the class mappings used by the model.
 
 ## Prerequisites
 
