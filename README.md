@@ -1,7 +1,3 @@
-Below is an example **README.md** tailored for your repository and project:
-
----
-
 # Testing RF-DETR Model
 
 This repository demonstrates how to run and test the RF-DETR model. It includes scripts and sample video files to help you get started with processing video data using the model.
