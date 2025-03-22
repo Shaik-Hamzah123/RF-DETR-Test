@@ -72,4 +72,4 @@ The repository contains the following key files:
   If you experience issues, consider creating a new virtual environment and reinstalling the dependencies.
 
 
-Feel free to adjust or expand this README to better fit your project's specifics. Enjoy testing the RF-DETR model!
+Enjoy testing the RF-DETR model! :) 
