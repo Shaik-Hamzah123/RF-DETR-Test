@@ -2,6 +2,8 @@
 
 This repository demonstrates how to run and test the RF-DETR model. It includes scripts and sample video files to help you get started with processing video data using the model.
 
+Enjoy testing the RF-DETR model! :) 
+
 ## Repository Link
 
 [GitHub Repository](https://github.com/Shaik-Hamzah123/RF-DETR-Test)
@@ -70,6 +72,3 @@ The repository contains the following key files:
 
 - **Environment Issues:**  
   If you experience issues, consider creating a new virtual environment and reinstalling the dependencies.
-
-
-Enjoy testing the RF-DETR model! :) 
